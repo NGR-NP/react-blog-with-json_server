@@ -37,7 +37,7 @@ const Header = () => {
                                 </MDBNavbarLink>
                             </MDBNavbarItem>
                             <MDBNavbarItem>
-                                <MDBNavbarLink href='/publish'>publish</MDBNavbarLink>
+                                <MDBNavbarLink href='/addblog'>Add Blogs</MDBNavbarLink>
                             </MDBNavbarItem>
                             <MDBNavbarItem>
                                 <MDBNavbarLink href='/about'>About</MDBNavbarLink>
